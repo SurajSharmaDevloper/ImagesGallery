@@ -3,7 +3,7 @@ const SearchBox = document.getElementById('Search-Box');
 const SearchResult = document.getElementById('Search-result');
 const ShowMoreBtn = document.getElementById('Show-More-Btn');
 
-const ApiKey = 'elW4UTFe246iDqLuDi-Jl7iLttiJaDS9jWgDfOSuJ2E';
+const ApiKey = 'Api key here';
 
 let keyWord = "";
 let page = 1;
